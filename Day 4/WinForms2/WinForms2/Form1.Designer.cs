@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -51,6 +52,12 @@
             this.check1 = new System.Windows.Forms.Label();
             this.check2 = new System.Windows.Forms.Label();
             this.check3 = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.label4 = new System.Windows.Forms.Label();
+            this.labelTimeLeft = new System.Windows.Forms.Label();
+            this.buttonStart = new System.Windows.Forms.Button();
+            this.label5 = new System.Windows.Forms.Label();
+            this.buttonClose = new System.Windows.Forms.Button();
             this.tableLayoutPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -75,6 +82,11 @@
             this.tableLayoutPanel1.Controls.Add(this.check1, 2, 1);
             this.tableLayoutPanel1.Controls.Add(this.check2, 2, 2);
             this.tableLayoutPanel1.Controls.Add(this.check3, 2, 3);
+            this.tableLayoutPanel1.Controls.Add(this.label4, 1, 0);
+            this.tableLayoutPanel1.Controls.Add(this.labelTimeLeft, 2, 0);
+            this.tableLayoutPanel1.Controls.Add(this.buttonStart, 1, 4);
+            this.tableLayoutPanel1.Controls.Add(this.label5, 0, 0);
+            this.tableLayoutPanel1.Controls.Add(this.buttonClose, 0, 4);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
@@ -147,6 +159,7 @@
             this.q1r3.TabStop = true;
             this.q1r3.Text = "Desk";
             this.q1r3.UseVisualStyleBackColor = true;
+            this.q1r3.CheckedChanged += new System.EventHandler(this.q1r3_CheckedChanged);
             // 
             // q1r1
             // 
@@ -158,6 +171,7 @@
             this.q1r1.TabStop = true;
             this.q1r1.Text = "Giraffe";
             this.q1r1.UseVisualStyleBackColor = true;
+            this.q1r1.CheckedChanged += new System.EventHandler(this.q1r1_CheckedChanged);
             // 
             // q1r2
             // 
@@ -203,6 +217,7 @@
             this.q2r1.TabStop = true;
             this.q2r1.Text = "Desk";
             this.q2r1.UseVisualStyleBackColor = true;
+            this.q2r1.CheckedChanged += new System.EventHandler(this.q2r1_CheckedChanged);
             // 
             // q2r2
             // 
@@ -214,6 +229,7 @@
             this.q2r2.TabStop = true;
             this.q2r2.Text = "Giraffe";
             this.q2r2.UseVisualStyleBackColor = true;
+            this.q2r2.CheckedChanged += new System.EventHandler(this.q2r2_CheckedChanged);
             // 
             // q2r3
             // 
@@ -259,6 +275,7 @@
             this.q3r1.TabStop = true;
             this.q3r1.Text = "Flowers";
             this.q3r1.UseVisualStyleBackColor = true;
+            this.q3r1.CheckedChanged += new System.EventHandler(this.q3r1_CheckedChanged);
             // 
             // q3r2
             // 
@@ -270,6 +287,7 @@
             this.q3r2.TabStop = true;
             this.q3r2.Text = "Giraffe";
             this.q3r2.UseVisualStyleBackColor = true;
+            this.q3r2.CheckedChanged += new System.EventHandler(this.q3r2_CheckedChanged);
             // 
             // q3r3
             // 
@@ -281,6 +299,7 @@
             this.q3r3.TabStop = true;
             this.q3r3.Text = "Desk";
             this.q3r3.UseVisualStyleBackColor = true;
+            this.q3r3.CheckedChanged += new System.EventHandler(this.q3r3_CheckedChanged);
             // 
             // label3
             // 
@@ -295,28 +314,97 @@
             // 
             this.check1.AutoSize = true;
             this.check1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.check1.Font = new System.Drawing.Font("Wingdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
             this.check1.Location = new System.Drawing.Point(364, 39);
             this.check1.Name = "check1";
             this.check1.Size = new System.Drawing.Size(116, 99);
             this.check1.TabIndex = 6;
+            this.check1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.check1.Click += new System.EventHandler(this.check1_Click);
             // 
             // check2
             // 
             this.check2.AutoSize = true;
             this.check2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.check2.Font = new System.Drawing.Font("Wingdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
             this.check2.Location = new System.Drawing.Point(364, 138);
             this.check2.Name = "check2";
             this.check2.Size = new System.Drawing.Size(116, 99);
             this.check2.TabIndex = 7;
+            this.check2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.check2.Click += new System.EventHandler(this.check2_Click);
             // 
             // check3
             // 
             this.check3.AutoSize = true;
             this.check3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.check3.Font = new System.Drawing.Font("Wingdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
             this.check3.Location = new System.Drawing.Point(364, 237);
             this.check3.Name = "check3";
             this.check3.Size = new System.Drawing.Size(116, 99);
             this.check3.TabIndex = 8;
+            this.check3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.check3.Click += new System.EventHandler(this.check3_Click);
+            // 
+            // timer1
+            // 
+            this.timer1.Interval = 1000;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
+            // label4
+            // 
+            this.label4.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(261, 7);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(97, 24);
+            this.label4.TabIndex = 9;
+            this.label4.Text = "Time Left: ";
+            // 
+            // labelTimeLeft
+            // 
+            this.labelTimeLeft.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.labelTimeLeft.AutoSize = true;
+            this.labelTimeLeft.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelTimeLeft.Location = new System.Drawing.Point(364, 7);
+            this.labelTimeLeft.Name = "labelTimeLeft";
+            this.labelTimeLeft.Size = new System.Drawing.Size(46, 24);
+            this.labelTimeLeft.TabIndex = 10;
+            this.labelTimeLeft.Text = "Start";
+            // 
+            // buttonStart
+            // 
+            this.buttonStart.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonStart.Location = new System.Drawing.Point(123, 339);
+            this.buttonStart.Name = "buttonStart";
+            this.buttonStart.Size = new System.Drawing.Size(235, 56);
+            this.buttonStart.TabIndex = 11;
+            this.buttonStart.Text = "Start";
+            this.buttonStart.UseVisualStyleBackColor = true;
+            this.buttonStart.Click += new System.EventHandler(this.buttonStart_Click);
+            // 
+            // label5
+            // 
+            this.label5.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(3, 6);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(98, 26);
+            this.label5.TabIndex = 12;
+            this.label5.Text = "What are these things?";
+            this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // buttonClose
+            // 
+            this.buttonClose.Location = new System.Drawing.Point(3, 339);
+            this.buttonClose.Name = "buttonClose";
+            this.buttonClose.Size = new System.Drawing.Size(114, 56);
+            this.buttonClose.TabIndex = 13;
+            this.buttonClose.Text = "Close";
+            this.buttonClose.UseVisualStyleBackColor = true;
+            this.buttonClose.Click += new System.EventHandler(this.buttonClose_Click);
             // 
             // Form1
             // 
@@ -325,7 +413,7 @@
             this.ClientSize = new System.Drawing.Size(483, 398);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Do you know your things?";
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
@@ -365,6 +453,12 @@
         private System.Windows.Forms.Label check1;
         private System.Windows.Forms.Label check2;
         private System.Windows.Forms.Label check3;
+        private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label labelTimeLeft;
+        private System.Windows.Forms.Button buttonStart;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Button buttonClose;
     }
 }
 
