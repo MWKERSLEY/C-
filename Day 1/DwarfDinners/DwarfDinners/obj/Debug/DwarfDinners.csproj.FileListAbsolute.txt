@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\MatthewKersley\C#\Day 1\DwarfDinners\DwarfDinners\bin\Debug\DwarfDinners.exe.config
+C:\Users\student\Desktop\MatthewKersley\C#\Day 1\DwarfDinners\DwarfDinners\obj\Debug\DwarfDinners.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\MatthewKersley\C#\Day 1\DwarfDinners\DwarfDinners\bin\Debug\DwarfDinners.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 1\DwarfDinners\DwarfDinners\bin\Debug\DwarfDinners.pdb
+C:\Users\student\Desktop\MatthewKersley\C#\Day 1\DwarfDinners\DwarfDinners\obj\Debug\DwarfDinners.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 1\DwarfDinners\DwarfDinners\obj\Debug\DwarfDinners.pdb

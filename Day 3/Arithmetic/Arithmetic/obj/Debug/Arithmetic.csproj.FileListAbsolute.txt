@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\MatthewKersley\C#\Day 1\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe.config
+C:\Users\student\Desktop\MatthewKersley\C#\Day 1\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 1\Arithmetic\Arithmetic\bin\Debug\Arithmetic.pdb
+C:\Users\student\Desktop\MatthewKersley\C#\Day 1\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\MatthewKersley\C#\Day 1\Arithmetic\Arithmetic\obj\Debug\Arithmetic.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 1\Arithmetic\Arithmetic\obj\Debug\Arithmetic.pdb
+C:\Users\student\Desktop\MatthewKersley\C#\Day 3\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe.config
+C:\Users\student\Desktop\MatthewKersley\C#\Day 3\Arithmetic\Arithmetic\obj\Debug\Arithmetic.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 3\Arithmetic\Arithmetic\obj\Debug\Arithmetic.pdb
+C:\Users\student\Desktop\MatthewKersley\C#\Day 3\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 3\Arithmetic\Arithmetic\bin\Debug\Arithmetic.pdb
+C:\Users\student\Desktop\MatthewKersley\C#\Day 3\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csprojResolveAssemblyReference.cache

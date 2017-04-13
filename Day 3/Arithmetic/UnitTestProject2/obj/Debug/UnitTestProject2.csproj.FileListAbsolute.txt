@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\MatthewKersley\C#\Day 3\Arithmetic\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\MatthewKersley\C#\Day 3\Arithmetic\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\student\Desktop\MatthewKersley\C#\Day 3\Arithmetic\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\student\Desktop\MatthewKersley\C#\Day 3\Arithmetic\UnitTestProject2\bin\Debug\Arithmetic.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 3\Arithmetic\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\student\Desktop\MatthewKersley\C#\Day 3\Arithmetic\UnitTestProject2\bin\Debug\Arithmetic.pdb
+C:\Users\student\Desktop\MatthewKersley\C#\Day 3\Arithmetic\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\student\Desktop\MatthewKersley\C#\Day 3\Arithmetic\UnitTestProject2\obj\Debug\UnitTestProject2.pdb

@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\AutomatedTesting\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\AutomatedTesting\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\AutomatedTesting\UnitTestProject1\bin\Debug\AutomatedTesting.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\AutomatedTesting\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\AutomatedTesting\UnitTestProject1\bin\Debug\AutomatedTesting.pdb
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\AutomatedTesting\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\AutomatedTesting\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\AutomatedTesting\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

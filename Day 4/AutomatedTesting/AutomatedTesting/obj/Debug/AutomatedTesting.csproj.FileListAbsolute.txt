@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\AutomatedTesting\AutomatedTesting\bin\Debug\AutomatedTesting.exe.config
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\AutomatedTesting\AutomatedTesting\bin\Debug\AutomatedTesting.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\AutomatedTesting\AutomatedTesting\bin\Debug\AutomatedTesting.pdb
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\AutomatedTesting\AutomatedTesting\obj\Debug\AutomatedTesting.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\AutomatedTesting\AutomatedTesting\obj\Debug\AutomatedTesting.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\AutomatedTesting\AutomatedTesting\obj\Debug\AutomatedTesting.pdb

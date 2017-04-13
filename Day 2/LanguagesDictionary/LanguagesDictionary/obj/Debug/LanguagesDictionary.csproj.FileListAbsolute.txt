@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\LanguagesDictionary\LanguagesDictionary\bin\Debug\LanguagesDictionary.exe.config
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\LanguagesDictionary\LanguagesDictionary\bin\Debug\LanguagesDictionary.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\LanguagesDictionary\LanguagesDictionary\bin\Debug\LanguagesDictionary.pdb
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\LanguagesDictionary\LanguagesDictionary\obj\Debug\LanguagesDictionary.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\LanguagesDictionary\LanguagesDictionary\obj\Debug\LanguagesDictionary.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\LanguagesDictionary\LanguagesDictionary\obj\Debug\LanguagesDictionary.pdb

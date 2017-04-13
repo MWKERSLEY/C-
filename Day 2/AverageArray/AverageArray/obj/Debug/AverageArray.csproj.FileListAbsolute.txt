@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\AverageArray\AverageArray\bin\Debug\AverageArray.exe.config
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\AverageArray\AverageArray\bin\Debug\AverageArray.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\AverageArray\AverageArray\bin\Debug\AverageArray.pdb
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\AverageArray\AverageArray\obj\Debug\AverageArray.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\AverageArray\AverageArray\obj\Debug\AverageArray.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\AverageArray\AverageArray\obj\Debug\AverageArray.pdb

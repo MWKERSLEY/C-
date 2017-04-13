@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\ArrayError\ArrayError\bin\Debug\ArrayError.exe.config
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\ArrayError\ArrayError\bin\Debug\ArrayError.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\ArrayError\ArrayError\bin\Debug\ArrayError.pdb
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\ArrayError\ArrayError\obj\Debug\ArrayError.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\ArrayError\ArrayError\obj\Debug\ArrayError.pdb

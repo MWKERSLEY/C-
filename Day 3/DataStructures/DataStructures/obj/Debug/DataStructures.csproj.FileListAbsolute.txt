@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\DataStructures\DataStructures\bin\Debug\DataStructures.exe.config
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\DataStructures\DataStructures\bin\Debug\DataStructures.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\DataStructures\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\DataStructures\DataStructures\obj\Debug\DataStructures.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
+C:\Users\student\Desktop\MatthewKersley\C#\Day 3\DataStructures\DataStructures\bin\Debug\DataStructures.exe.config
+C:\Users\student\Desktop\MatthewKersley\C#\Day 3\DataStructures\DataStructures\obj\Debug\DataStructures.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 3\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
+C:\Users\student\Desktop\MatthewKersley\C#\Day 3\DataStructures\DataStructures\bin\Debug\DataStructures.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 3\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\student\Desktop\MatthewKersley\C#\Day 3\DataStructures\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache

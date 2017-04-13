@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\HousePrices\HousePrices\bin\Debug\HousePrices.exe.config
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\HousePrices\HousePrices\bin\Debug\HousePrices.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\HousePrices\HousePrices\bin\Debug\HousePrices.pdb
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\HousePrices\HousePrices\obj\Debug\HousePrices.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\HousePrices\HousePrices\obj\Debug\HousePrices.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\HousePrices\HousePrices\obj\Debug\HousePrices.pdb

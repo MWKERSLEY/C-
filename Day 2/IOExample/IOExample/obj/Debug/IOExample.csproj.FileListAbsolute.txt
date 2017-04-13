@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\IOExample\IOExample\bin\Debug\IOExample.exe.config
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\IOExample\IOExample\bin\Debug\IOExample.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\IOExample\IOExample\bin\Debug\IOExample.pdb
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\IOExample\IOExample\obj\Debug\IOExample.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\IOExample\IOExample\obj\Debug\IOExample.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 2\IOExample\IOExample\obj\Debug\IOExample.pdb

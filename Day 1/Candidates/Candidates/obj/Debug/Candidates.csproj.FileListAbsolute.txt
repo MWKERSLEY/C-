@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\MatthewKersley\C#\Day 1\Candidates\Candidates\bin\Debug\Candidates.exe.config
+C:\Users\student\Desktop\MatthewKersley\C#\Day 1\Candidates\Candidates\bin\Debug\Candidates.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 1\Candidates\Candidates\bin\Debug\Candidates.pdb
+C:\Users\student\Desktop\MatthewKersley\C#\Day 1\Candidates\Candidates\obj\Debug\Candidates.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\MatthewKersley\C#\Day 1\Candidates\Candidates\obj\Debug\Candidates.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 1\Candidates\Candidates\obj\Debug\Candidates.pdb

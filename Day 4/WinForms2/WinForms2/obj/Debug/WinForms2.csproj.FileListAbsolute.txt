@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\WinForms2\WinForms2\bin\Debug\WinForms2.exe.config
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\WinForms2\WinForms2\bin\Debug\WinForms2.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\WinForms2\WinForms2\bin\Debug\WinForms2.pdb
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\WinForms2\WinForms2\obj\Debug\WinForms2.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\WinForms2\WinForms2\obj\Debug\WinForms2.Form1.resources
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\WinForms2\WinForms2\obj\Debug\WinForms2.Properties.Resources.resources
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\WinForms2\WinForms2\obj\Debug\WinForms2.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\WinForms2\WinForms2\obj\Debug\WinForms2.exe
+C:\Users\student\Desktop\MatthewKersley\C#\Day 4\WinForms2\WinForms2\obj\Debug\WinForms2.pdb
